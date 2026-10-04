@@ -23,8 +23,8 @@ git clone https://github.com/pranavkhandale/smart-calculator.git
 python smart-calculator.py
 
 ## Example
-Enter your choice: 1
-Enter the number: 16
+Enter your choice: 1,
+Enter the number: 16,
 Result: 4.0
 
 ## Author
